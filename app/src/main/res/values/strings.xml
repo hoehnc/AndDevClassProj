@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndDevClassProj</string>
+    <string name="title_activity_deposit">depositActivity</string>
+    <string name="title_activity_payment">paymentActivity</string>
+</resources>
